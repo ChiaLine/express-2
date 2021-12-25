@@ -1,0 +1,29 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  width: 100px;
+  height: 35px;
+  margin: 5px;
+  border-radius: 5px;
+  background-color: #eeebeb;
+}
+
+button:active {
+  background-color: slategrey;
+}
+
+a {
+  text-decoration: none;
+  padding: 10px;
+  tab-size: 18px;
+  color: #000;
+}
+
+h1 {
+  width: 90%;
+  margin: 10px auto;
+}
